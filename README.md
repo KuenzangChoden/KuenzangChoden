@@ -112,26 +112,26 @@
 
 ## GitHub Stats ##
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyashC&style=flat-square@color=yellow" alt="Divyash's Profile Views" width="220" height="40"/> </p>
-<p align="center">@divyashC's Profile Visits</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KuenzangChoden&style=flat-square@color=yellow" alt="KuenzangC's Profile Views" width="220" height="40"/> </p>
+<p align="center">@KC's Profile Visits</p>
 
 <br />
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyashC&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&fire=FFCB2B" alt="Divyash's GitHub Streaks"/> </p>
-<p align="center">@divyashC's GitHub Streaks</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuenzangChoden&theme=chartreuse-dark&date_format=j%20M%5B%20Y%5D&fire=FFCB2B" alt="KC's GitHub Streaks"/> </p>
+<p align="center">@KC's GitHub Streaks</p>
 
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=divyashC&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Divyash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=KuenzangChoden&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="KC's GitHub Stats" />
 </p>
-<p align="center">@divyashC's GitHub Stats</p>
+<p align="center">@KC's GitHub Stats</p>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyashC&hide=TeX&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Divyash's Top GitHub Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuenzangChoden&hide=TeX&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="KC's Top GitHub Languages" />
 </p>
-<p align="center">@divyashC's GitHub Languages</p>
+<p align="center">@KC's GitHub Languages</p>
 
 <br/>
