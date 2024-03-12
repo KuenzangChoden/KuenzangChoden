@@ -5,7 +5,7 @@
 - ✔️ Familiar with C, C++, Java, HTML, CSS, Ruby, Python, Dart
 - 🔗 Passionate about BE development and stellar consensus protocol/ BFA. 
 - 📫 You can reach me out in Instagram - [uni_per](https://www.instagram.com/uni_per/) Twitter - [@kuenzang806](https://twitter.com/kuenzang806) 
-- 🏢 Currently a junior BE developer in Selise Bhutan 
+- 🏢 Currently a Software Developer, Backend in Selise Bhutan 
 
 <br />
 
