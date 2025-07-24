@@ -1,11 +1,7 @@
 # Welcome To My GitHub Page #
 
-- 👋 Bonjour, je m'appelle Kuenzang Choden
-- 💻 I'm a developer by profession, love psychology and philisophy. 
-- ✔️ Familiar with C, C++, Java, HTML, CSS, Ruby, Python, Dart
-- 🔗 Passionate about BE development and stellar consensus protocol/ BFA. 
-- 📫 You can reach me out in Instagram - [uni_per](https://www.instagram.com/uni_per/) Twitter - [@kuenzang806](https://twitter.com/kuenzang806) 
-- 🏢 Currently a Software Developer, Backend in Selise Bhutan 
+- 👋 Kuenzang Choden
+- ✔️ Familiar with C, C++, Java, HTML, CSS, Ruby, Python, c#, dotnet
 
 <br />
 
@@ -13,27 +9,9 @@
 ## Get in touch with me on: ##
 
 <p align="center">
- <a href="https://twitter.com/kuenzang806" target="_blank">
-  <img src="https://github.com/divyashC/devicon/blob/master/icons/twitter/twitter-original.svg" alt="KC's Twitter" width="40" height="40"/>     
- </a>
- <a href="https://www.instagram.com/uni_per/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="KC's Instagram" width="40" height="40" />    
- </a>
- <a href="https://github.com/KuenzangChoden" target="_blank">
-  <img src="https://github.com/divyashC/devicon/blob/master/icons/github/github-original.svg" alt="KC's GitHub"  width="40" height="40"/>    
- </a>
- <a href="https://stackoverflow.com/users/17746060/kuenzang-choden" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="KC's StackOverflow Profile"  width="40" height="40"/>    
- </a>
  <a href="https://www.linkedin.com/in/kuenzang-choden-05b9b4165/" target="_blank">
   <img src="https://github.com/divyashC/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="KC's LinkedIn"  width="40" height="40"/>    
  </a>
- <a href="https://discord.com/users/Kuenzang_Choden#3369" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="KC's Discord"  width="40" height="40"/>
- </a>
-<!--  <a href="mailto:kuenzangc807@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email-3357C0?style=for-the-badge&logo=gmail&logoColor=white" alt="KC's email - kuenzangc807@gmail.com" />    
- </a> -->
 </p>
 
 <br/>
